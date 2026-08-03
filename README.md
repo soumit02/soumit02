@@ -16,7 +16,7 @@
 
 ### 🔝 My Top / Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soumit02&repo=আপনার_রিপোর_নাম&theme=dark)](https://github.com/soumit02/আপনার_রিপোর_নাম)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soumit02&repo=Bangladeshi-Taka-Note-Detection-&theme=default)](https://github.com/soumit02/Bangladeshi-Taka-Note-Detection-)
 
 ---
 [![](https://komarev.com/ghpvc/?username=soumit02&icon=0&color=blue)](https://visitcount.itsvg.in)
