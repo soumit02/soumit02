@@ -1,4 +1,5 @@
-
+## 👋 Hello world! I'm Soumit Dey
+**Computer Science and Engineering Graduate | Tech Enthusiast**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumit-dey-b6632827a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumitdey2002@gmail.com) 
 
