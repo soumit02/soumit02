@@ -1,5 +1,19 @@
-## 👋 Hello world! I'm Soumit Dey
-**Computer Science and Engineering Graduate | Tech Enthusiast**
+## 👋 Hi there! I'm Soumit Dey
+**Computer Science and Engineering Graduate | Tech & AI Enthusiast**
+
+### 👨‍💻 About Me
+* 🎓 I am a Computer Science and Engineering graduate from the University of Asia Pacific.
+* 🔭 My core interests lie in Artificial Intelligence, Machine Learning and Robotics.
+* 🤖 I have hands-on experience in research leadership, technical hardware support for robotics, and developing diverse AI-driven applications.
+* 🌱 Currently working with AI tools, Computer Vision, NLP, and software development technologies like Docker and FastAPI.
+
+### 🚀 Featured Projects
+* **Multi-Tasking Smart Robot (Hardware):** An app-controlled robotic system powered by an Arduino UNO, seamlessly integrating three distinct features: obstacle avoidance, line following, and a smart bin mechanism.
+* **Real-Time Bilingual Medicine Label Recognition (Thesis/Research):** An IoT-based computer vision system built with an ESP32-CAM module. It utilizes Flask, OpenCV, an EAST text detector, and OCR to detect and read labels in real-time.
+* **Bangladeshi Taka Note Detection API (AI):** A robust classification API developed using the YOLOv11n-cls model, containerized with Docker, and served via a FastAPI prediction endpoint.
+* **People Flow Detection & Object Tracking (AI):** An advanced human tracking and counting system utilizing the YOLOv8 model combined with the Supervision library for precise object tracking.
+* **Retrofittable IoT Smart Module (Published Research):** A real-time mobility monitoring device utilizing embedded controllers, IMU, and cloud logging, which led to a successful research publication.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumit-dey-b6632827a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumitdey2002@gmail.com) 
 
@@ -15,9 +29,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 My Top / Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soumit02&repo=Bangladeshi-Taka-Note-Detection-&theme=default)](https://github.com/soumit02/Bangladeshi-Taka-Note-Detection-)
 
 ---
 [![](https://komarev.com/ghpvc/?username=soumit02&icon=0&color=blue)](https://visitcount.itsvg.in)
