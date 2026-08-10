@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Soumit Dey
+# 👋 Hi there! I'm Soumit Dey
 **Computer Science and Engineering Graduate | Tech & AI Enthusiast**
 
 ### 👨‍💻 About Me
